@@ -1,10 +1,10 @@
 # 🎯 Poker Bankroll Tracker
 
-A sleek, AI-powered iOS app for tracking poker sessions with a **Cluely-inspired dashboard theme**. Features a dark command center aesthetic with neon glow effects, making you feel like a sharp, analytical poker pro with a real-time edge.
+A sleek, AI-powered iOS app for tracking poker sessions. Features a dark command center aesthetic with neon glow effects, making you feel like a sharp, analytical poker pro with a real-time edge.
 
 ## ✨ Features
 
-### 🎨 Cluely-Inspired Dashboard
+### 🎨 Aesthetic Dashboard
 - **Dark Command Center Aesthetic**: Sleek, covert design that makes you feel like a sharp, analytical poker pro
 - **Neon Glow Effects**: Teal and electric purple accents with subtle pulse animations
 - **Mono-spaced Fonts**: Clean, technical typography for that professional edge
@@ -130,7 +130,7 @@ This app embodies the aesthetic of a professional poker player's command center:
 
 ## 📱 Screenshots
 
-*Coming soon - build and run to see the Cluely-inspired design in action!*
+*Coming soon - build and run to see the design in action!*
 
 ## 🤝 Contributing
 
